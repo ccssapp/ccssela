@@ -11,14 +11,18 @@ There are three format groups in this repo.
   + Tab-separated value (TSV) plain text files.
   + Human readable without special software
   + Imports into spreadsheets
+    + `ccssela-withid.tsv`L uses item id for easier sorting
+    + `ccssela.tsv`: plain text file
 
 ### [Workbooks](https://github.com/ccssapp/ccssela/tree/main/workbooks)
-  + Microsoft Excel spreadsheet workbook
-  + OpenOffice spreadsheet workbook
+  + `ccssela.xlsx`: Microsoft Excel spreadsheet workbook
+  + `ccssela.ods`: OpenOffice spreadsheet workbook
 
 ### [JSON](https://github.com/ccssapp/ccssela/tree/main/json)
-  + JavaScript Object Notation
+  + JavaScript Object Notation file
   + Ready for app developers
+    + `ccssela.json` JSON file
+    + `ccssela.min.json`: minified JSON file
 
 
 # References
